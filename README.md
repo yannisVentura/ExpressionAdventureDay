@@ -17,8 +17,7 @@ Ce projet à été créer à partir du logiciel RPG Maker VX Ace. Ainsi, seule l
 
 3. Double cliquez sur l'exécutable
 
-
-![alt tag](img/ExpressionAdventureDay_tuto_2.JPG)
+![alt tag](img/ExpressionAdventureDay tuto_2.JPG)
 
 4. Choisir le répertoire d'installation
 
