@@ -26,3 +26,6 @@ Ce projet à été créer à partir du logiciel RPG Maker VX Ace. Ainsi, seule l
 5. Ouvrir le répertoire du jeu et exécuter le fichier : Game.exe
 
 ![alt tag](img/ExpressionAdventureDay_tuto_4.JPG)
+
+
+## Conception des niveaux et points d'intérets
