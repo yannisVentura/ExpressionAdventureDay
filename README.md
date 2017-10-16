@@ -68,13 +68,13 @@ Chaque carte propose au joueur de chercher un ou plusieurs objets dans une pièc
 Sur la capture d’écran suivante chaque carré transparent représente un évènement se déclenchant automatiquement ou via une action du joueur.
 Ces évènements sont en vérité du code rubis générer par le logiciel RPG Maker. Côté utilisateur, j’ai effectué très peu d’efforts en programmation afin de pouvoir concevoir les divers niveaux du jeu. En revanche une bonne gestion des évènements et de leurs déclencheurs ont été nécessaire afin de garantir l’avancée du joueur. Les ressources utilisées durant ce jeu sont principalement celles fournies de base par le logiciel RPG Maker VX Ace, cependant il m’a été nécessaire d’importer de nouvelles ressources graphiques (trouvé en accès libre sur internet) afin de pouvoir représenter divers ordinateurs.
 
-<scr_1>
+![alt tag](img/Maps/2011_global_map.PNG)
 
 ## 2011 – Chambre de Yannis en Martinique
 
 Afin de progresser sur cette première carte le joueur devra trouver divers indices concernant mes origines et mes centres d’intérêt. Trois indices sont nécessaires afin d’ouvrir la porte permettant d’accéder à la prochaine carte.
 
-<src_2>
+![alt tag](img/Maps/2011_events_player.png)
 
 Une fois les divers indices découverts le joueur peut ainsi avancer dans le jeu.
 Il est important de noter qu’il y a plus d’évènements que nécessaire afin de s’assurer que le joueur ne passe pas trop de temps à chercher et puisse avancer rapidement dans les divers niveaux du jeu.
@@ -85,7 +85,7 @@ Ainsi un joueur pressé ne fera pas le jeu à 100% et pourrait découvrir de nou
 
 Ce niveau représente l’un de mes premiers appartements étudiants. Le joueur aura ici pour mission de retrouver les clés de l’appartement afin de pouvoir sortir du niveau. Le but de cette démarche est de forcer le joueur à explorer l’appartement à la recherche dudit objet. En explorant les diverses pièces le joueur découvrira alors divers indices sur mes motivations, mais également sur ma personnalité.
 
-<src_3>
+![alt tag](img/Maps/2016_Toulouse.PNG)
 
 ## 2017 Appartement
 
@@ -94,12 +94,4 @@ Lors de la création de ce projet j’étais encore en train d’aménager mon a
 Le but de la dernière carte est de récupérer le CV poser sur le table afin de pouvoir l’envoyé par mail sur l’ordinateur disponible dans la pièce. 
 Une fois cette dernière tâche accomplit mon CV (de fin d’année de master 1) apparaitra alors à l’écran du joueur sous forme de texte défilé plus sous forme d’un QR code que le joueur pourra scanner avec son téléphone portable afin d’avoir accès au PDF correspondant à mon CV.
 
-
-
-
-
-
-
-
-
-
+![alt tag](img/Maps/2017_Appartement.png)
